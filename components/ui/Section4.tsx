@@ -12,7 +12,7 @@ const Section4 = () => {
           <p className="text-lgray text-center">Organically grow the holistic world view of disruptive innovation via workplace diversity  and empowerment of people and great talent that truly rocks.</p>
         </div>
         <div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-10 p-5">
 
           <div className="flex gap-2 flex-col">
             <img className="w-[384px] h-[320px] md:h-[370px] rounded-[2px]" src="https://s3-alpha-sig.figma.com/img/ee5e/d0fe/287f5c7f001f3f3ccfd70ff4efd383a0?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C5enUV4DOOdW8A~Tv4Q9YxlNd8rOfq5U7R3MGVHIdX0VNtQ4pT29ADZQEBPKSd1lGItsaNRF~jWbz20MjIQOW8ezd8xPReHe0upcPZNarJVF~cDhuoQYBt21r8bgA783Ko-9UCXDKdUs9vgfbzhphZdqP7mRcep67VdmsTBvhLZMT53U0uzFvgSLWLrfAo9~Ql6DA4E4T1zvJetXlLjJtNCBNC95Et5-8td0-qJmOwJh3jXuznpbRVFkRAaLFSygpU-98ErDS4~FGNnxcBMwFNAkTvG5z1RylBmumzU52k6zewx09-hz3w32tKhYZxWO6qgC7ZxRXD-S7721a3DlrA__" alt="img1" />
