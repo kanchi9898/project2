@@ -6,12 +6,12 @@ import { FaMailchimp, FaPinterest, FaSlack } from 'react-icons/fa'
 
 const Section6 = () => {
   return (
-    <div className="bg-[#2B63D9]">
+    <div className="bg-[#2B63D9] px-2">
     <Container>
-      <div className="h-[300px] md:h-[404px] flex flex-col items-center justify-center">
+      <div className="h-[360px] md:h-[404px] flex flex-col items-center justify-center">
         <div className="w-full md:w-[640px] h-max flex flex-col items-center justify-center gap-5 md:gap-[28px]">
           <h2 className="text-fff text-[14px] font-semibold">1% OF THE INDUSTRY</h2>
-          <h1 className="text-[5vw] md:text-[33px] text-fff text-center font-semibold">Welcome to your new digital reality that
+          <h1 className="text-[7vw] md:text-[33px] text-fff text-center font-semibold">Welcome to your new digital reality that
 which will rock your world truly at all.</h1>
 <div className='flex gap-4 flex-col md:flex-row w-full items-center justify-center'>
     <Button className="bg-fff text-blue hover:bg-fff font-semibold text-[18px] w-full md:w-max">Sign up</Button>

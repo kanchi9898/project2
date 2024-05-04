@@ -8,7 +8,7 @@ const Section3 = () => {
     <Container>
       <div className="flex flex-col lg:flex-row items-center justify-between gap-10 p-5">
          <div className="w-full lg:w-[532px] flex gap-4 flex-col">
-          <h1 className="text-dblue text-[32px] font-semibold">Demonstrate branding consequently think outside</h1>
+          <h1 className="text-dblue text-[25px] md:text-[32px] font-semibold">Demonstrate branding consequently think outside</h1>
           <p className="text-lgray hidden lg:block">Velit purus egestas tellus phasellus. Mattis eget sed faucibus magna vulputate pellentesque a diam tincidunt. Aenean malesuada tellus tellus faucibus mauris quisque mauris in.</p>
           <ul className="flex gap-2 flex-col">
             <li className="text-lgray flex items-center gap-2 leading-[24px]"><Check size={20} className="text-blue"/> Enterprise-grade security</li>

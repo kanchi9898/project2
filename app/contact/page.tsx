@@ -23,7 +23,7 @@ const Contact_page = () => {
     <div className='w-full h-max py-10 md:py-0 md:h-[100vh] flex flex-col items-center justify-center bg-[#151B28] text-fff gap-10'>
       <span onClick={()=>route.push("/")} className='absolute top-4 left-4 cursor-pointer'><MoveLeft size={30}/></span>
       <div className='flex flex-col items-center justify-center w-[95%] md:w-[90%] lg:w-[60%] gap-[8px]'>
-        <span className='font-bold md:text-[2.2vw] lg:text-[1.5vw]'>Get In Touch With Us</span>
+        <span className='font-bold text-[6vw] md:text-[2.2vw] lg:text-[1.5vw]'>Get In Touch With Us</span>
         <p className='text-lgray text-center'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, </p>
       </div>
 
