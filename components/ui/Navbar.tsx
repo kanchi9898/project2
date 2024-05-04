@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className='flex items-center justify-between py-3 md:py-4 '>
           <div className='flex gap-[64px]'>
             <div className='font-bold md:text-[3vw] lg:text-[1.5vw] text-[#2E343F]'>
-              <img src="/logo/Lookscout.png" alt="logo" />
+              <img src="/logo/Logo.png" alt="logo" />
             </div>
             <ul className=' items-center gap-[32px] hidden lg:flex font-semibold'>
               <li className='cursor-pointer'>Home</li>
@@ -37,7 +37,7 @@ const Navbar = () => {
 
             <Sheet>
               <SheetTrigger asChild>
-                <Menu size={30} />
+                <Menu size={30} className='cursor-pointer'/>
               </SheetTrigger>
               <SheetContent className='text-black'>
               <ul className='gap-5 flex flex-col font-semibold lg:hidden'>

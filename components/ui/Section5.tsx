@@ -7,8 +7,8 @@ const Section5 = () => {
   return (
     <Container>
   <div className="w-full flex items-center justify-center flex-col">
-  <div className="flex flex-col gap-3 items-center justify-center p-4 sm:p-5 h-full w-full md:w-[70%]">
-          <h1 className="text-dblue text-[20px] md:text-[32px] font-bold md:font-semibold">Frequently asked questions</h1>
+  <div className="flex flex-col gap-3 items-center justify-center p-0 sm:p-5 h-full w-full md:w-[70%]">
+          <h1 className="text-dblue text-[21px] md:text-[32px] font-bold md:font-semibold">Frequently asked questions</h1>
           <p className="text-lgray text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.</p>
         </div>
         <div className="w-full rounded-[5px] border-r-[1px] border-l-[1px] border-t-[1px] my-10">

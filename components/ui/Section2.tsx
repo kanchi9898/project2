@@ -8,7 +8,7 @@ const Section2 = () => {
 
             <div className="h-max md:h-[880px] lg:h-[454px] flex flex-col gap-[64px] items-center justify-center py-5 md:py-0">
                 <div className="flex flex-col gap-[12px] items-center justify-center">
-                    <h1 className="text-dblue font-semibold text-[7vw] sm:text-[5vw] md:text-[4vw] lg:text-[2vw]">Messaging for all</h1>
+                    <h1 className="text-dblue font-semibold text-[25px] sm:text-[5vw] md:text-[4vw] lg:text-[2vw]">Messaging for all</h1>
                     <p className="text-lgray text-center hidden lg:block">User generated content in real-time will have multiple touchpoints for offshoring.</p>
                 </div>
 

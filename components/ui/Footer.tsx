@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="h-max hidden md:block">
     <div className="h-max grid md:grid-cols-3 lg:grid-cols-5 justify-between my-20 gap-10 lg:gap-20">
       <div className="flex flex-col gap-2">
-        <img src="/logo/Lookscout.png" alt="logo" className="w-[160px] h-[30px] mb-3" />
+        <img src="/logo/Logo.png" alt="logo" className="w-[160px] h-[40px] mb-3" />
         <p className="text-lgray">Generate outside the box thinking with the possibility to targtet the low.</p>
         <div className="gap-4 hidden lg:flex">
           <FaFacebook size={30} />
